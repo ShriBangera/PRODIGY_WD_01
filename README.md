@@ -22,9 +22,9 @@ Dolce Desserts is a web project that showcases a dessert-themed website. It is b
 ## How to Run
 
 1. Clone or download the repository:
-
+```bash
     git clone https://github.com/ShriBangera/Dolce-Desserts.git
-
+```
 
 2. Open index.html in your web browser.
 
